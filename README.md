@@ -39,7 +39,7 @@ This repository contains MATLAB scripts for processing side-scan sonar data. The
 
 ## Author
 
-[Your Name] – [Optional contact or link]
+Ali RAZA
 
 ## License
 
